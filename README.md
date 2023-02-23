@@ -17,5 +17,5 @@ distances = data['distances']
 Here `traces` will return 10 traces (one for each demonstration/experiment), where each trace is a sequence of truth evaluations of the predicates.
 `formulae` holds the MAP estimate after each experiment, and `distances` will hold the Jaccard Distance between the current estimate and the ground truth.
 
-#### Citation
-S. Sobti, R. Shome, and L. E. Kavraki, “Efficient Inference of Temporal Task Specifications from Human Demonstrations using Experiment Design,” in Proceedings of the IEEE International Conference on Robotics and Automation, 2023.
+#### How to Cite
+> S. Sobti, R. Shome, and L. E. Kavraki, “Efficient Inference of Temporal Task Specifications from Human Demonstrations using Experiment Design,” in Proceedings of the IEEE International Conference on Robotics and Automation, 2023.

@@ -1,0 +1,1 @@
+{'global': ('NOT o1', 'NOT o2'), 'eventual': ('r', 'g', 'b', 'y'), 'order': 'NOT g UNTIL b & o1 & o2 & r & y'}
